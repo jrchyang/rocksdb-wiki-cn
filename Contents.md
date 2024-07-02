@@ -1,7 +1,9 @@
 - [[RocksDB-Wiki]]
 - [[Overview]]
-- [[Compatibility-Between-Different-Release]]
 - [[RocksDB-FAQ]]
+- [[Compatibility-Between-Different-Release]]
+- [[Terminology]]
+- [[Requirements]]
 - [[Contribution-Guide]]
 - [[Release-Methodology]]
 - Basic-Operations

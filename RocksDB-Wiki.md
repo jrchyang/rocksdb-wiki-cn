@@ -20,7 +20,7 @@ RocksDB 引入了数十项新的主要功能，查看 [[Features-Not-in-LevelDB|
 
 ## 入门
 
-有关完整目录，请参阅 [[Contents|目录]]。大多数读者会希望从开发人员指南的 [[Overview|概述]] 和 [[Basic-Operations/Overview|基本操作]] 部分开始阅读。根据 [[Setup-Options-and-Basic-Tuning|设置选项和基本调优]] 来设置你的初始选项。还可以查看 [[RocksDB-FAQ|RocksDB 常见问题]]。此外，我们还为高级RocksDB用户准备了 [[Tuning-Guide|RocksDB调试指南]]。
+有关完整目录，请参阅 [[Contents|目录]]。大多数读者会希望从开发人员指南的 [[Overview|概述]] 和 [[Basic-Operations|基本操作]] 部分开始阅读。根据 [[Setup-Options-and-Basic-Tuning|设置选项和基本调优]] 来设置你的初始选项。还可以查看 [[RocksDB-FAQ|RocksDB 常见问题]]。此外，我们还为高级RocksDB用户准备了 [[Tuning-Guide|RocksDB调试指南]]。
 
 有关如何构建 Rocksdb 的说明，请查看 [INSTALL.md](https://github.com/facebook/rocksdb/blob/main/INSTALL.md)。
 

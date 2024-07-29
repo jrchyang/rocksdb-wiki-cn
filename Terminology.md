@@ -269,7 +269,7 @@
 
 - 中文：写入停滞
 - 释义：当刷新或压实出现积压时，RocksDB 可能会主动减慢写入速度，以确保刷新和压缩能够跟上
-- 详情：[[WriteStalls]]
+- 详情：[[Write-Stalls]]
 
 ## Write-Ahead-Log (WAL) or log
 
